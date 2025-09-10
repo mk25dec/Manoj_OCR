@@ -1,4 +1,4 @@
-**Extract text & structured info from PDFs (vector or scanned) and images.**
+**OCR - Data Extraction from various files (images, pdf, text, json, xml, etc) (vector or scanned)**
 
 **Features:**
 
